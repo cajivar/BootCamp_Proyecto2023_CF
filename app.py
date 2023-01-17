@@ -15,7 +15,7 @@ st.set_page_config(
 
 with st.sidebar:
     st.title("Dashboard")
-    st.write("DLaboratorio Nutriendo")
+    st.write("Laboratorio Nutriendo")
 
 # carga de datos
 
