@@ -1,5 +1,16 @@
 {
     "cSpell.language": "es,en,es-ES,en-US",
     "markdown.preview.typographer": true,
-    "workbench.editor.preferHistoryBasedLanguageDetection": true
+    "workbench.editor.preferHistoryBasedLanguageDetection": true,
+    "cSpell.enableFiletypes": [
+        "pip-requirements"
+    ],
+    "cSpell.words": [
+        "Addres",
+        "categoricals",
+        "countplot",
+        "dbcompra",
+        "explorative",
+        "Feha"
+    ]
 }
